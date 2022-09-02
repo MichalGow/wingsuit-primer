@@ -5,7 +5,7 @@ a demo project to show how to use [Storybook](https://storybook.js.org/)
 with [Drupal](https://www.drupal.org/) via [Wingsuit](https://wingsuit-designsystem.github.io/).
 
 This combination address one of the biggest criticisms against Drupal, that the frontend development
-has a too steep a curve, and that it requires only Drupal professionals.
+has a too steep learning curve, and that it requires only Drupal professionals.
 
 With [Storybook](https://storybook.js.org/), it does not. All the designer/frontend developer needs to
 know are frontend technologies like CSS, JS and Twig. See below for a __Step-by-step example of a frontend change__.
