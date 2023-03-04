@@ -4,16 +4,16 @@ This repository is a fork of [Wingsuit Kickstarter](https://github.com/wingsuit-
 a demo project to show how to use [Storybook](https://storybook.js.org/)
 with [Drupal](https://www.drupal.org/) via [Wingsuit](https://wingsuit-designsystem.github.io/).
 
+I have forked the [Wingsuit Kickstarter](https://github.com/wingsuit-designsystem/wingsuit-kickstarter)
+to provide a more user-friendly readme, enabling it to work as a primer.
+That way even people who have no experience with [Storybook](https://storybook.js.org/) (and JS building tools) can see the
+power with their naked eyes.
+
 This combination address one of the biggest criticisms against Drupal, that the frontend development
 has a too steep learning curve, and that it requires only Drupal professionals.
 
 With [Storybook](https://storybook.js.org/), it does not. All the designer/frontend developer needs to
 know are frontend technologies like CSS, JS and Twig. See below for a __Step-by-step example of a frontend change__.
-
-I have forked the [Wingsuit Kickstarter](https://github.com/wingsuit-designsystem/wingsuit-kickstarter)
-to provide a more user-friendly readme, enabling it to work as a primer.
-That way even people who have no experience with [Storybook](https://storybook.js.org/) (and JS building tools) can see the
-power with their naked eyes.
 
 ## Prerequisites
 
